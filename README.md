@@ -8,3 +8,5 @@ It in cludes examples of:
 - SQLAlchemy ORM
 - One-to-many relationship
 - Many-to-Mamny relationship
+
+Test command - `python -m unittest discover -s tests -v`

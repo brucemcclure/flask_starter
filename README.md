@@ -9,4 +9,9 @@ It in cludes examples of:
 - One-to-many relationship
 - Many-to-Mamny relationship
 
+#### How to get this app up and running
+
+Install postgres
+Configure user and permissions
+
 Test command - `python -m unittest discover -s tests -v`

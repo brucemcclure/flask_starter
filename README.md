@@ -13,5 +13,9 @@ It in cludes examples of:
 
 Install postgres
 Configure user and permissions
+create venv
+activate venv
+install requirements
+Complete .env file
 
 Test command - `python -m unittest discover -s tests -v`
